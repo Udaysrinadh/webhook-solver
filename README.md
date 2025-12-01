@@ -22,8 +22,9 @@ Notes:
 - No controllers are exposed; the flow runs on application startup (ApplicationReadyEvent).
 - The app uses RestTemplate (synchronous) per requirements.
 - If the target endpoints require a different payload or headers, update application.properties.
-- 
+
+<img width="1463" height="693" alt="image" src="https://github.com/user-attachments/assets/5ed642e6-42f4-4383-970a-3dc7c6ccaa4f" />
+ 
 <img width="1454" height="677" alt="image" src="https://github.com/user-attachments/assets/35cdadd1-9144-49b8-bacd-835b1c28c2a3" />
 
-- <img width="1454" height="677" alt="image" src="https://github.com/user-attachments/assets/67bd6097-17df-47af-a73f-401f528154f4" />
 
