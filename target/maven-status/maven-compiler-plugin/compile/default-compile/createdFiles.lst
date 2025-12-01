@@ -1,0 +1,5 @@
+com\example\webhooksolver\LoggingInterceptor$BufferingClientHttpResponse.class
+com\example\webhooksolver\LoggingInterceptor.class
+com\example\webhooksolver\WebhookService.class
+com\example\webhooksolver\WebhookSolverApplication.class
+com\example\webhooksolver\WebhookService$1.class
